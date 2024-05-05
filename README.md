@@ -7,6 +7,6 @@ Xây dựng hệ CSDL lưu trữ và tìm kiếm tiếng chim hót.
      b.Trình bày quá trình trích rút, lưu trữ và sử dụng các thuộc tính để tìm kiếm âm thanh trong hệ thống.
   4.Demo hệ thống và đánh giá kết quả đã đạt được.
 # Thành viên nhóm:
-Mai Quang Huy - B20DCCN313
-Ngô Văn Khánh - B20DCCN373
+Mai Quang Huy - B20DCCN313\
+Ngô Văn Khánh - B20DCCN373\
 Trần Việt Hùng - B20DCCN301
